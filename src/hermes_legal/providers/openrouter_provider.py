@@ -43,7 +43,7 @@ class OpenRouterProvider(BaseProvider):
             api_key=self.api_key,
             base_url="https://openrouter.ai/api/v1",
             default_headers={
-                "HTTP-Referer": "https://github.com/Lethe044/hermes-legal",
+                "HTTP-Referer": "https://github.com/Ravinderyadav19/Hermes-legal-contract-analyser",
                 "X-Title": "Hermes Legal Advisor",
             },
         )

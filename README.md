@@ -3,7 +3,7 @@
 [![PyPI version](https://img.shields.io/pypi/v/hermes-legal-advisor.svg)](https://pypi.org/project/hermes-legal-advisor/)
 [![PyPI downloads](https://img.shields.io/pypi/dm/hermes-legal-advisor.svg)](https://pypi.org/project/hermes-legal-advisor/)
 [![Python versions](https://img.shields.io/pypi/pyversions/hermes-legal-advisor.svg)](https://pypi.org/project/hermes-legal-advisor/)
-[![CI](https://github.com/Lethe044/hermes-legal/actions/workflows/ci.yml/badge.svg)](https://github.com/Lethe044/hermes-legal/actions/workflows/ci.yml)
+[![CI](https://github.com/Ravinderyadav19/Hermes-legal-contract-analyser/actions/workflows/ci.yml/badge.svg)](https://github.com/Ravinderyadav19/Hermes-legal-contract-analyser/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 **Free, multi-provider AI contract analysis for developers, freelancers, and small teams.**
@@ -90,8 +90,8 @@ instead, e.g. `pip install hermes-legal-advisor[groq,pdf]`.
 Or run from source:
 
 ```bash
-git clone https://github.com/Lethe044/hermes-legal.git
-cd hermes-legal
+git clone https://github.com/Ravinderyadav19/Hermes-legal-contract-analyser.git
+cd Hermes-legal-contract-analyser
 pip install -e ".[all]"
 ```
 
@@ -383,7 +383,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: Lethe044/hermes-legal@main
+      - uses: Ravinderyadav19/Hermes-legal-contract-analyser@main
         with:
           path: contracts/
           fail-on-risk: CRITICAL

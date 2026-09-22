@@ -32,8 +32,8 @@ pure function that takes an `AnalysisResult` and returns either a string
 ## Development setup
 
 ```bash
-git clone https://github.com/Lethe044/hermes-legal.git
-cd hermes-legal
+git clone https://github.com/Ravinderyadav19/Hermes-legal-contract-analyser.git
+cd Hermes-legal-contract-analyser
 pip install -e ".[all,dev]"
 pytest
 ```

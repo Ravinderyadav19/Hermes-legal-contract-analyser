@@ -9,7 +9,7 @@ description = "Free, multi-provider AI contract analysis toolkit: scores risk, s
 readme = "README.md"
 requires-python = ">=3.9"
 license = { text = "MIT" }
-authors = [{ name = "Lethe044" }]
+authors = [{ name = "Rajat" }]
 keywords = [
     "legal-tech", "contract-analysis", "contract-review", "ai", "llm",
     "groq", "gemini", "cli", "redline", "nda", "developer-tools",
@@ -54,10 +54,10 @@ all = [
 dev = ["pytest>=7.0.0", "pytest-cov>=4.0.0"]
 
 [project.urls]
-Homepage = "https://github.com/Lethe044/hermes-legal"
-Repository = "https://github.com/Lethe044/hermes-legal"
-Issues = "https://github.com/Lethe044/hermes-legal/issues"
-Changelog = "https://github.com/Lethe044/hermes-legal/blob/main/CHANGELOG.md"
+Homepage = "https://github.com/Ravinderyadav19/Hermes-legal-contract-analyser"
+Repository = "https://github.com/Ravinderyadav19/Hermes-legal-contract-analyser"
+Issues = "https://github.com/Ravinderyadav19/Hermes-legal-contract-analyser/issues"
+Changelog = "https://github.com/Ravinderyadav19/Hermes-legal-contract-analyser/blob/main/CHANGELOG.md"
 
 [project.scripts]
 hermes-legal = "hermes_legal.cli:main"

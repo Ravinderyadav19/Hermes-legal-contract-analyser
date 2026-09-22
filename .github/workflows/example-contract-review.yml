@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Review changed contracts
-        uses: Lethe044/hermes-legal@main
+        uses: Ravinderyadav19/Hermes-legal-contract-analyser@main
         with:
           path: contracts/
           provider: auto

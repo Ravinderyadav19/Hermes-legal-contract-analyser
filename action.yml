@@ -3,7 +3,7 @@ description: >
   Automatically scans contract files (.txt, .md, .pdf, .docx) changed in a
   pull request and posts a risk summary to the job summary. Works with free
   providers (Groq, Gemini) or completely offline with no API key at all.
-author: "Lethe044"
+author: "Rajat"
 branding:
   icon: "shield"
   color: "purple"
