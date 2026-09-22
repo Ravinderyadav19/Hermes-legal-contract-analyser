@@ -1,11 +1,5 @@
 # Hermes Legal Advisor
 
-[![PyPI version](https://img.shields.io/pypi/v/hermes-legal-advisor.svg)](https://pypi.org/project/hermes-legal-advisor/)
-[![PyPI downloads](https://img.shields.io/pypi/dm/hermes-legal-advisor.svg)](https://pypi.org/project/hermes-legal-advisor/)
-[![Python versions](https://img.shields.io/pypi/pyversions/hermes-legal-advisor.svg)](https://pypi.org/project/hermes-legal-advisor/)
-[![CI](https://github.com/Ravinderyadav19/Hermes-legal-contract-analyser/actions/workflows/ci.yml/badge.svg)](https://github.com/Ravinderyadav19/Hermes-legal-contract-analyser/actions/workflows/ci.yml)
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
 **Free, multi-provider AI contract analysis for developers, freelancers, and small teams.**
 
 Feed it a contract - a `.txt`, `.pdf`, or `.docx` file - and it reads every clause,
